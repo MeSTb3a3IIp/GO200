@@ -4,6 +4,8 @@ import (
 	"apiserver/internal/store"
 	"database/sql"
 	"net/http"
+
+	_ "github.com/lib/pq"
 )
 
 func Start() error {
