@@ -4,7 +4,7 @@ export default function AppRouter() {
         <Route path={"/auth"} element={<Auth />}></Route>
         <Route path={"/"} element={<Main />}></Route>
         <Route path={"/tasks"} element={<Tasks />}></Route>
-        <Route path={"/task/{id}"} element={<Task />}></Route>
+        <Route path={"/task/[id]"} element={<Task />}></Route>
         <Route path={"/"} element={<x />}></Route>
         <Route path={"/"} element={<x />}></Route>
         <Route path={"/"} element={<x />}></Route>
