@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/Info.css"
+import "../css/Info.css"
 
 
 export default function Info () {

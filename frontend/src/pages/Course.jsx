@@ -1,8 +1,8 @@
                            
 import React from "react";
-import "./css/Comment.css"
+import "../css/Course.css"
 
-export default function Comment () {
+export default function Course () {
     return (
         <div className="bg">
             <div className="design">

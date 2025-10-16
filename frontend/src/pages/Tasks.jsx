@@ -1,5 +1,5 @@
 import React from "react";
-import "./css/Tasks.css"
+import "../css/Tasks.css"
 
 
 export default function Tasks () {

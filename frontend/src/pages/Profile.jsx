@@ -1,8 +1,8 @@
 import React from "react";
-import "./css/Main.css"
+import "../css/Profile.css"
 
 
-export default function Main () {
+export default function Profile () {
     return (
         <div className="bg">
             <div className="design">
